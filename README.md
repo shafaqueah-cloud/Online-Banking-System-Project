@@ -1,6 +1,7 @@
 # Banking Management System
+# Introduction
 
-A Java Swing desktop banking application backed by MySQL.
+This is a console based application which gives access to do all kind of banking operations. JDBC has been used to develop this system which includes JDBC Driver, Connections, DAO implementations and exception handling. MySQL has been used for database.
 
 ## Requirements
 
